@@ -1,14 +1,25 @@
 #clock {
+	position:relative;
+
+
 }
 
 #clock img {
+	position: absolute;
 }
 
 #hour {
+/*	rotate .000277778 degrees/sec
+*/
+	
 }
 
 #minute {
+	/*rotate .1 degrees / sec*/
 }
 
 #second {
+	/*rotate 6 degrees/sec*/
 }
+
+
